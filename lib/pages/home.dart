@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     child: Center(
                       child: ElevatedButton(
                           onPressed: _showRandomMovie,
-                          child: Text('Select a movie')
+                          child: Text('Select a movie ')
                       ),
                     )
                 )
